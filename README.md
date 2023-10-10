@@ -59,10 +59,6 @@
                     <ul>
                         <li><span>May 2023 - Present</span><br>Software and Web Development Program at AOLCC</li>
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
 <!-- ---------services---------------- -->
 <div id="services">
     <div class="container">
