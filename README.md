@@ -97,9 +97,6 @@
             </div>
         </div>
     </div>
-    <div class="copyright">
-        <p>Trina Elaine Manaig</a></p>
-    </div>
 </div>
 
 
