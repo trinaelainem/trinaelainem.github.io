@@ -39,14 +39,14 @@
                 <p>I am an aspiring software and web developer currently taking up the Software and Web Development Program at Academy of Learning Career College in Victoria, British Columbia in Canada. I started this program last May 2023. So far, I have been proficient with various code programs. If you have further inquiries, please feel free to send me a message through the inquiry section, my email or my contact number located below. Thank you!</p>
 
                 <div class="tab-titles">
-                    <p class="tab-links active-link" onclick="opentab('skills')">Skills</p>
+                    <p class="tab-links active-link" onclick="opentab('projects')">Projects</p>
                     <p class="tab-links" onclick="opentab('experience')">Experience</p>
                     <p class="tab-links" onclick="opentab('education')">Education</p>
                 </div>
-                <div class="tab-contents active-tab" id="skills">
+                <div class="tab-contents active-tab" id="projects">
                     <ul>
-                        <li><span>Software Development</span><br>Designing Web/App interfaces</li>
-                        <li><span>Web Development</span><br>Web app Development</li>
+                        <li><span>Package Shipping Quote Application </span><br>This project is a console-based application that shows the estimated total for shipping a package. This asks for the weight, width, height and length then calculates the shipping at the end using the criteria mentioned.</li>
+                        <li><span>Car Insurance Application</span><br>This project is an ASP.NET MVC Entity Framework that calculates the car insurance of users based on certain guidelines through a form. Furthermore, this project also has an admin view that shows all the quotes issued, together with the user's full name, and email address.</li>
                     </ul>
                 </div>
                 <div class="tab-contents" id="experience">
